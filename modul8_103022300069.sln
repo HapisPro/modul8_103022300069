@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul8_103022300069", "modul8_103022300069\modul8_103022300069.csproj", "{59E2C1C0-7A2A-4F62-B83C-CE88AE2A702F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C989FB14-5953-4A4B-A8B7-AF085D1A5CB2}"
+	ProjectSection(SolutionItems) = preProject
+		datas\bank_transfer_config.json = datas\bank_transfer_config.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
